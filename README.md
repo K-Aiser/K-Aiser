@@ -1,16 +1,28 @@
-## Hi there 👋
+### 👋 Hi, I’m @k-aiser
+I'm a passionate software developer and a computer science graduate who loves building innovative projects.  
 
-<!--
-**k-aiser/k-aiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 😄 Pronouns  
+He/Him 
 
-Here are some ideas to get you started:
+### 👀 Interests  
+- Software development  
+- AI & Machine Learning  
+- Japanese music (J-Rock, J-Pop, J-Indie, J-Folk)
+- System architecture & backend engineering  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 Currently Learning  
+- TensorFlow & deep learning  
+- Japanese language (aiming for JLPT N5)  
+- Advanced Java & Spring Boot  
+
+### 💞️ Looking to Collaborate On  
+- Open-source AI/ML projects  
+- Java & Spring Boot applications  
+- Data processing projects in Python 
+
+### 📫 How to Reach Me  
+- GitHub: [@k-aiser](https://github.com/k-aiser)  
+- LinkedIn: [@evkarthikeya](https://www.linkedin.com/in/evkarthikeya/)
+
+### ⚡ Fun Fact  
+I enjoy drawing and calligraphy on the weekends! 🎨  
